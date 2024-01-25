@@ -18,4 +18,4 @@ social: true  # includes social icons at the bottom of the page
 
 HI, 
 
-My name is Zhihao Li. I am from Shanghai, China and currently a first-year master student at Brown University studying in Computer Science. My degree concentration is ML/AI. I completed my bachelor's degree in Computer Science @ University of Washington, Seattle.
+My name is Zhihao Li. I am from Shanghai, China and currently a first-year master student at Brown University studying in Computer Science. My degree concentration is ML/AI. I received my bachelor's degree in Computer Science @ <a href="https://www.cs.washington.edu/">University of Washington</a>, Seattle.
