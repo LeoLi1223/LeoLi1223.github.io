@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: Money Tracker
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: 
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
