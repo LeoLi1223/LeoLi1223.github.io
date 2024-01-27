@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-HI, 
+Hi, 
 
-My name is Zhihao Li. I am from Shanghai, China and currently a first-year master student at Brown University studying in Computer Science. My degree concentration is ML/AI. I received my bachelor's degree in Computer Science @ [University of Washington, Seattle]("https://www.cs.washington.edu/").
+My name is Zhihao Li. I am from Shanghai, China and currently a first-year master student at Brown University studying Computer Science. My degree concentration is ML/AI. I received my bachelor's degree in Computer Science @ [University of Washington, Seattle]("https://www.cs.washington.edu/").
